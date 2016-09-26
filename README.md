@@ -1,3 +1,4 @@
 # cs3240-labdemo
 
-I want a conflict.
+Adding a new line to the readme file.
+
